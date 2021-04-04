@@ -1,0 +1,48 @@
+
+
+body,html {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+ul {
+  padding: 0;
+  width: 100%;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 19.5%;
+  margin:10px 30px 15px;
+  text-align: center;
+  line-height: 6;
+  color: #f11505;
+  border-radius: 35%;
+  font-size: 1.4rem;
+}
+
+li:last-child a {
+  margin-right: 0;
+}
+
+a:link, a:visited, a:focus {
+  background: #00bcd4;
+}
+
+a:hover {
+  background: #ffa500;
+}
+
+a:active {
+  background: #ff5722;
+  color: #ffffff;
+}
+    h1{font-family: cursive;
+
+      }
